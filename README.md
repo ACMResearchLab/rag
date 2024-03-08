@@ -3,8 +3,13 @@
 
 ### Environments
 
-- [node](https://nodejs.org/ja/download): 18:17.1 (LTS)
-- [npm](https://nodejs.org/ja/download): 9.6.7
+- [Python](https://www.python.org/): 3.12
+- [tiktoken](https://pypi.org/project/tiktoken/): 0.6.0
+- [python-dotenv](https://pypi.org/project/python-dotenv/): 1.0.1
+- [numpy](https://numpy.org/): 1.26.4
+- [matplotlib](https://matplotlib.org/): 3.8.3
+- [openai](https://pypi.org/project/openai/): 1.13.3
+- [sentence-transformers](https://pypi.org/project/sentence-transformers/): 2.5.1
 
 ### Installation
 
