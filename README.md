@@ -1,1 +1,4 @@
 # Readme
+```bash
+poetry install
+```
